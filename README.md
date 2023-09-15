@@ -5,7 +5,7 @@ Summary of relevant job experience, skills and education background
 
 
 1.My self Jaskaran Kaur currently enrolled in web development in humber college.
-![Jas](jas.jpg)
+<img src="jas.png" width="200" height="100">
 
 
 ## education
