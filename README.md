@@ -1,12 +1,8 @@
 # resume
 Summary of relevant job experience, skills and education background
 
-# Jaskaran Kaur
-
-
-1.My self Jaskaran Kaur currently enrolled in web development in humber college.
-<img src="jas.png" width="200" height="100">
-
+# Name
+Jaskaran Kaur
 
 ## education
 1.web development -current(2023-2024)
