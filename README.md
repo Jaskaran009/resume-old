@@ -3,6 +3,7 @@ Summary of relevant job experience, skills and education background
 
 # Name
 Jaskaran Kaur
+![Jas](jas.jpg)
 
 ## education
 web development -current(2023-2024)
@@ -15,5 +16,5 @@ Pre Board Officer(2022-2023)
 website (7 wonders of world)
 login web page
 
-![Jas](jas.jpg)
+
 
