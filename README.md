@@ -3,7 +3,7 @@ Summary of relevant job experience, skills and education background
 
 # Name
 Jaskaran Kaur
-<img src=jas.jpg width="200px" height="200px">
+<img src=jas.jpg width="300px" height="300px">
 ## education
 1.web development -current(2023-2024)
 
