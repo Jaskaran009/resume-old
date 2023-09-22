@@ -1,2 +1,0 @@
-Resume 
-Jaskaran Kaur
