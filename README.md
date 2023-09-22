@@ -1,13 +1,13 @@
-# resume
-Summary of relevant job experience, skills and education background
+# Jaskaran Kaur
+ I am web development student at humber college
 
-# Name
-Jaskaran Kaur
 <img src=jas.jpg width="300px" height="300px">
-## education
-1.web development -current(2023-2024)
 
-## work experience
+## Education
+1.Computer Programming(2018-2019)
+2.web development -current(2023-2024)
+
+## Work experience
 1.Internet technician(2020-2022)
 
 2.Pre Board Officer(2022-2023)
@@ -15,12 +15,8 @@ Jaskaran Kaur
 
 ## projects
 |Title  |  Description of project|
+|-------|------------------------|
 | 7 wonders of the world | A webpage about the 7 wonders of the world |
-| Header | Title |
-| Paragraph | Text |
-1.website (7 wonders of world)
-
-2.login web page
 
 ## Social Media Profiles
 1.Instagram()
