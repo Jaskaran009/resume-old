@@ -1,7 +1,7 @@
 # Jaskaran Kaur
  I am web development student at humber college
 
-<img src=jas.jpg width="300px" height="300px">
+<img src=jas.jpg width="500px" height="300px">
 
 ## Education
 1.Computer Programming(2018-2019)
